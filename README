@@ -1,0 +1,3 @@
+A javascript snippet to make Singapore Management University (SMU)'s facility booking web application use all available browser space.
+
+This works only when Facility Booking is accessed via the direct link at https://intranet.smu.edu.sg/apps/efm/mainmenu.aspx
